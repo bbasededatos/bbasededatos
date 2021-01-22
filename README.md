@@ -1,4 +1,4 @@
-<div align='center'><h1>DATABASE</h1></div>
+<div align='center'><h1>bbasededatos</h1></div>
 <div align="center">
 
 Somos una Organizacion que busca acercar a la administración de bases de datos a las pequeñas, medianas o grandes empresas, sin importar donde estén. Inspirando a innovar, creando conocimiento.
@@ -19,6 +19,6 @@ Somos una Organizacion que busca acercar a la administración de bases de datos 
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: De vez en cuando participo convivimos con nuestra comunidad
 - 👨 Conoce más sobre mí en compartiendo con nosotros
-- 🌐 Visite nuestro [blog](https://facebook.com/bbasededatos) para obtener información y contacto completos.
+- 🌐 Visite nuestro [blog](https://facebook.com/bbasededatos) para obtener mas información
 
 
